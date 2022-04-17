@@ -1,0 +1,10 @@
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\bin\Debug\Freya Binder.exe.config
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\bin\Debug\Freya Binder.exe
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\bin\Debug\Freya Binder.pdb
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\obj\Debug\Freya Binder.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\obj\Debug\Freya_Binder.Form1.resources
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\obj\Debug\Freya_Binder.Properties.Resources.resources
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\obj\Debug\Freya Binder.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\obj\Debug\Freya Binder.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\obj\Debug\Freya Binder.exe
+C:\Users\ygzat\Desktop\Freya Binder\Freya Binder\obj\Debug\Freya Binder.pdb
